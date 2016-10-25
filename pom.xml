@@ -3,7 +3,7 @@
   <groupId>com.sonatype.blog</groupId>
   <artifactId>git-demo</artifactId>
   <packaging>jar</packaging>
-  <version>1.2</version>
+  <version>1.3-SNAPSHOT</version>
   <name>git-demo</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -18,7 +18,7 @@
 	<connection>scm:git:git@github.com:Nmishin/git-demo.git</connection>
 	<url>scm:git:git@github.com:Nmishin/git-demo.git</url>
 	<developerConnection>scm:git:git@github.com:Nmishin/git-demo.git</developerConnection>
-    <tag>git-demo-1.2</tag>
+    <tag>master</tag>
   </scm>
   <build>
 <plugins>
