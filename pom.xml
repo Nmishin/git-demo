@@ -18,7 +18,7 @@
 	<connection>scm:git:git@github.com:Nmishin/git-demo.git</connection>
 	<url>scm:git:git@github.com:Nmishin/git-demo.git</url>
 	<developerConnection>scm:git:git@github.com:Nmishin/git-demo.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>master</tag>
   </scm>
   <build>
 <plugins>
